@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BrandShopping/static/css/main.3a701697.css",
+    "main.js": "/BrandShopping/static/js/main.8049f71f.js",
+    "static/js/787.4c8c0bb8.chunk.js": "/BrandShopping/static/js/787.4c8c0bb8.chunk.js",
+    "index.html": "/BrandShopping/index.html",
+    "main.3a701697.css.map": "/BrandShopping/static/css/main.3a701697.css.map",
+    "main.8049f71f.js.map": "/BrandShopping/static/js/main.8049f71f.js.map",
+    "787.4c8c0bb8.chunk.js.map": "/BrandShopping/static/js/787.4c8c0bb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a701697.css",
+    "static/js/main.8049f71f.js"
+  ]
+}
