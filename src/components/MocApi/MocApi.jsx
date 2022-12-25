@@ -18,6 +18,9 @@ export const MocApi = () => {
                     return (
                         <div key={index} className={styles}>
                             <img src={state.avatar}/>
+                            <br />
+                            <b>{state.name}</b>
+                            <br />
                         </div>
                     )
                 })
