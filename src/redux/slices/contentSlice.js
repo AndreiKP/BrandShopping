@@ -3,6 +3,7 @@ import { clothes } from '../../containers/state/clothes';
 
 const initialState = {
   yes: false,
+  mocApi: [],
   clothes,
 }
 

@@ -1,4 +1,5 @@
 import styles from "./Content.module.scss";
+import { MocApi} from '../MocApi/MocApi';
 
 import { useSelector, useDispatch } from 'react-redux';
 import { pusto } from '../../redux/slices/contentSlice';
@@ -13,6 +14,7 @@ export const Content = () => {
       Content
       <header className={styles.AppHeader}>
         <h1>brandshopping</h1>
+        <MocApi />
         {clothes.map((clothes, index) => {
           return (
             <div key={index}>
