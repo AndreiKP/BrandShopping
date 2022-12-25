@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BrandShopping/static/css/main.f17dc8c6.css",
-    "main.js": "/BrandShopping/static/js/main.8e04a106.js",
+    "main.js": "/BrandShopping/static/js/main.ccb14d02.js",
     "static/js/787.4c8c0bb8.chunk.js": "/BrandShopping/static/js/787.4c8c0bb8.chunk.js",
     "index.html": "/BrandShopping/index.html",
     "main.f17dc8c6.css.map": "/BrandShopping/static/css/main.f17dc8c6.css.map",
-    "main.8e04a106.js.map": "/BrandShopping/static/js/main.8e04a106.js.map",
+    "main.ccb14d02.js.map": "/BrandShopping/static/js/main.ccb14d02.js.map",
     "787.4c8c0bb8.chunk.js.map": "/BrandShopping/static/js/787.4c8c0bb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f17dc8c6.css",
-    "static/js/main.8e04a106.js"
+    "static/js/main.ccb14d02.js"
   ]
 }
